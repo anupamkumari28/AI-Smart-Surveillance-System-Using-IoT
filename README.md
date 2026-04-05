@@ -16,7 +16,7 @@ This project is an AI-based smart surveillance system that performs real-time fa
 ---
 
 ## 📄 Research Paper
-file:///C:/Users/Dell/Documents/Anupam%20kumari%2023%20research%20paper.pdf
+https://github.com/anupamkumari28/AI-Smart-Surveillance-System-Using-IoT/blob/main/Anupam%20kumari%2023%20research%20paper.pdf
 
 ---
 
